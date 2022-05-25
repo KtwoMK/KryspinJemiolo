@@ -7,11 +7,16 @@ I'm an aspiring Full-Stack Web Developer 💻!
 </h2> 
 
 I am a 16 year old student from poland, studying IT in England. I love working out, listening to music, reading, and researching web development. My dream is to one day work as a full-stack developer for a big hosting company
-
+</br>
+</br>
 ### 🤝 Connect with me:
 
 
-<a href="https://www.instagram.com/kay.1_x/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Kay1 Instagram" width="21px"/></a>
+<a href="https://www.instagram.com/kay.1_x/"><img align="left" src="https://user-images.githubusercontent.com/100538163/170320022-39761c22-bd91-4fca-92f3-e91a202cdcd2.svg" alt="Kay1 Instagram" width="21px"/></a>
+
+<a href="https://www.snapchat.com/add/kay1.me?share_id=MTY1N0RDMDYtMDc1Mi00NUZDLUFFMkYtNUFFQ0FEMDIxMTAz&locale=en_GB"><img align="left" src="https://user-images.githubusercontent.com/100538163/170320019-7a9cae42-1070-46dc-873c-d3ebc80055cd.svg" alt="Kay1 Instagram" width="21px"/></a>
+
+<a href="https://discord.com/users/971170661345144852"><img align="left" src="https://user-images.githubusercontent.com/100538163/170320015-57999f20-c144-40fa-af46-6b1011601424.svg" alt="Kay1 Instagram" width="21px"/></a>
 
 </br>
 </br>
@@ -19,10 +24,15 @@ I am a 16 year old student from poland, studying IT in England. I love working o
 
 ## 🔭 I'm currently working along side the management team for <a href="https://discord.gg/cjYQTRSWxz"> Node Networks </a>
 
+## ✍ I have previously used
+- JavaScript (Still have a lot to learn though)
+- HTML
+- CSS
+- Tailwind
+
 
 ## 🌱 I'm currently learning
 
 - JavaScript
 - MySQL
 - ReactJS
-
