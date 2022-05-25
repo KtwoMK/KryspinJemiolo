@@ -6,7 +6,7 @@ Hi there, I'm <a href="#" target="_blank" rel="noreferrer">Kryspin</a> 👋
 I'm an aspiring Full-Stack Web Developer 💻!
 </h2> 
 
-I am a 16 year old student from poland, studying IT in England. I love working out, listening to music, reading, and researching web development. My dream is to one day work as a full-stack developer for a big hosting company
+I am a 16 year old student from Poland, studying IT in England. I love working out, listening to music, reading, and researching web development. My dream is to one day work as a full-stack developer for a big hosting company
 </br>
 </br>
 ### 🤝 Connect with me:
