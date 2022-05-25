@@ -11,7 +11,7 @@ I am a 16 year old student from poland, studying IT in England. I love working o
 ### 🤝 Connect with me:
 
 
-<a href="https://instagram.com/yushi.95](https://www.instagram.com/kay.1_x/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Kay1 Instagram" width="21px"/></a>
+<a href="https://www.instagram.com/kay.1_x/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Kay1 Instagram" width="21px"/></a>
 
 </br>
 </br>
