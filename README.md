@@ -3,10 +3,10 @@ Hi there, I'm <a href="#" target="_blank" rel="noreferrer">Kryspin</a> 👋
 </h3>
 
 <h2 align="center">
-I'm an aspiring Full-Stack Web Developer 💻!
+I'm an aspiring backend developer 💻!
 </h2> 
 
-I am a 16 year old student from Poland, studying IT in England. I love working out, listening to music, reading, and researching web development. My dream is to one day work as a full-stack developer for a big hosting company
+I am a 16 year old student from Poland, studying IT in England. I love working out, listening to music, reading, and researching web development. My dream is to one day work as a backend developer for a big hosting company
 </br>
 </br>
 ### 🤝 Connect with me:
