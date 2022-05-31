@@ -26,7 +26,6 @@ I am a 16 year old student from Poland, studying IT in England. I love working o
 
 ## ✍ I have previously used
 - JavaScript (Still have a lot to learn though)
-- Python (Still have a lot to learn though)
 - HTML
 - CSS
 - Tailwind
@@ -36,4 +35,3 @@ I am a 16 year old student from Poland, studying IT in England. I love working o
 
 - JavaScript
 - ReactJS
-- Python
