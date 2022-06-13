@@ -22,7 +22,7 @@ I am a 16 year old student from Poland, studying IT in England. I love working o
 </br>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me via <a href="mailto: JemioloKryspin@Yahoo.Com">email</a>
 
-## 🔭 I'm currently working along side the management team for <a href="https://discord.gg/cjYQTRSWxz"> Node Networks </a>
+## 🔭 I'm currently working along side the support team for <a href="https://nanitehosting.com/"> Nanite Hosting </a>
 
 ## ✍ I have previously used
 - JavaScript (Still have a lot to learn though)
