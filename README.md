@@ -3,10 +3,10 @@ Hi there, I'm <a href="https://kryspinjemiolo.co.uk" target="_blank" rel="norefe
 </h3>
 
 <h2 align="center">
-I'm an aspiring web developer 💻!
+I'm an aspiring developer 💻!
 </h2> 
 
-I am a 16 year old student from Poland, studying IT in England. I love working out, listening to music, reading, and researching web development. My dream is to one day work as a web developer for a large hosting company
+I am a 16 year old student from Poland, studying IT in England. I love working out, listening to music, reading, and researching software development. My dream is to one day work as a developer for a large hosting company
 </br>
 </br>
 ### 🤝 Connect with me:
@@ -35,3 +35,4 @@ I am a 16 year old student from Poland, studying IT in England. I love working o
 
 - JavaScript
 - ReactJS
+- Golang
