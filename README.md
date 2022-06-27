@@ -20,9 +20,7 @@ I am a 16 year old student from Poland, studying IT in England. I love working o
 
 </br>
 </br>
-- 💬 If you have any question/feedback, please do not hesitate to reach out to me via <a href="mailto: JemioloKryspin@Yahoo.Com">email</a>
-
-## 🔭 I'm currently working along side the abuse team for <a href="https://nanitehosting.com/"> Nanite Hosting </a>
+- 💬 If you have any question/feedback, please do not hesitate to reach out to me via <a href="mailto: contact@kryspinjemiolo.co.uk">email</a>
 
 ## ✍ I have previously used
 - JavaScript (Still have a lot to learn though)
