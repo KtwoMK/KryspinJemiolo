@@ -33,4 +33,7 @@ I am a 16 year old student from Poland, studying IT in England. I love working o
 
 - JavaScript
 - ReactJS
-- Golang
+- Python
+
+
+<a href="kryspinjemiolo.co.uk><img src="![image](https://user-images.githubusercontent.com/100538163/178106032-aa191c14-be41-4c01-a08e-b615260ca1ef.png)"></a>
