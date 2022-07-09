@@ -36,4 +36,4 @@ I am a 16 year old student from Poland, studying IT in England. I love working o
 - Python
 
 
-![image](https://user-images.githubusercontent.com/100538163/178106055-0e9188cb-e33b-4294-9485-1b03370dbb98.png)
+<a href="kryspinjemiolo.co.uk">![image](https://user-images.githubusercontent.com/100538163/178106055-0e9188cb-e33b-4294-9485-1b03370dbb98.png)</a>
