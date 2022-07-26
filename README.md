@@ -6,7 +6,7 @@ Hi there, I'm <a href="https://kryspinjemiolo.co.uk" rel="noreferrer">Kryspin</a
 IT Enthusiast 💻!
 </h2> 
 
-I am a 16 year old student from Poland, studying IT in England. I love working out, listening to music, reading, and researching software development.
+I am a 16 year old student from Poland, studying IT in England. I love working out, listening to music, reading, and researching different sectors of IT.
 </br>
 </br>
 ### 🤝 Connect with me:
