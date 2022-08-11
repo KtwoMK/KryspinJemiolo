@@ -16,7 +16,7 @@ I am a 16 year old student from Poland, studying IT in England. I love working o
 
 <a href="https://www.snapchat.com/add/kay1.me?share_id=MTY1N0RDMDYtMDc1Mi00NUZDLUFFMkYtNUFFQ0FEMDIxMTAz&locale=en_GB"><img align="left" src="https://user-images.githubusercontent.com/100538163/170320019-7a9cae42-1070-46dc-873c-d3ebc80055cd.svg" alt="Kay1 Instagram" width="21px"/></a>
 
-<a href="https://discord.com/users/971170661345144852"><img align="left" src="https://user-images.githubusercontent.com/100538163/170320015-57999f20-c144-40fa-af46-6b1011601424.svg" alt="Kay1 Instagram" width="21px"/></a>
+<a href="https://discord.com/users/995766325416828939"><img align="left" src="https://user-images.githubusercontent.com/100538163/170320015-57999f20-c144-40fa-af46-6b1011601424.svg" alt="Kay1 Instagram" width="21px"/></a>
 
 </br>
 </br>
