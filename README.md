@@ -32,5 +32,5 @@ I am a 16 year old student from Poland, studying IT in England. I love working o
 ## 🌱 I'm currently learning
 
 - Python
-
+- JavaScript
 
