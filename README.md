@@ -3,10 +3,10 @@ Hi there, I'm <a href="https://kryspinjemiolo.co.uk" rel="noreferrer">Kryspin</a
 </h3>
 
 <h2 align="center">
-IT Enthusiast 💻!
+Front End Enthusiast 💻!
 </h2> 
 
-I am a 16 year old student from Poland, studying IT in England. I love working out, listening to music, reading, and researching different sectors of IT.
+I am a 16 year old student from Poland, studying IT in England.
 </br>
 </br>
 ### 🤝 Connect with me:
@@ -31,6 +31,6 @@ I am a 16 year old student from Poland, studying IT in England. I love working o
 
 ## 🌱 I'm currently learning
 
-- Python
 - JavaScript
+- ReactJS
 
