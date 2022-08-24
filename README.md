@@ -3,7 +3,7 @@ Hi there, I'm <a href="https://kryspinjemiolo.co.uk" rel="noreferrer">Kryspin</a
 </h3>
 
 <h2 align="center">
-Front End Enthusiast 💻!
+IT Enthusiast 💻!
 </h2> 
 
 I am a 16 year old student from Poland, studying IT in England.
@@ -23,14 +23,11 @@ I am a 16 year old student from Poland, studying IT in England.
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me via <a href="mailto: contact@kryspinjemiolo.co.uk">email</a>
 
 ## ✍ I have previously used
-- JavaScript
 - HTML
 - CSS
-- Tailwind
 
 
 ## 🌱 I'm currently learning
 
-- JavaScript
-- ReactJS
+- Golang
 
