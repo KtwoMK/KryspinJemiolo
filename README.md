@@ -2,20 +2,22 @@
 
 <p align="center"> Hey, I'm Kryspin, a 16 year old student from Poland, studying IT in the UK. I like to explore different sectors of IT, and I am currently learning Javascript. I also enjoy listening to music, reading and working out from time to time.</p>
 
-#### Let's Connect!
+<h1 align="center"> Let's Connect!</h1>
 
-I'm always glad to connect with anyone on **[Discord](https://discord.com/users/995766325416828939/)** or **[Instagram](https://www.instagram.com/kay.1_x/)**
+<p align="center"> I'm always glad to connect with anyone on **[Discord](https://discord.com/users/995766325416828939/)** or **[Instagram](https://www.instagram.com/kay.1_x/)**
 
 You could always <a href="mailto: contact@kryspinjemiolo.co.uk">Email</a> me too :)
+ </p>
 
-#### Facts About Me
+<h1 align="center"> Facts About Me </h1>
 
+<p align="center">
 - Born in Poland, Debica
 - Living in the UK for over 13+ years
 - 16 years of age
 - current interest: front end web development
 - Favourite song: All Mine - Plaza
-
+</p1>
 ---
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
