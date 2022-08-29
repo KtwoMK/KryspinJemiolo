@@ -1,34 +1,22 @@
-<h3 align="center">
-Hi there, I'm <a href="https://kryspinjemiolo.co.uk" rel="noreferrer">Kryspin</a> 👋
-</h3>
+  ### Kryspin Jemiolo
 
-<h2 align="center">
-IT Enthusiast 💻!
-</h2> 
+<p align="center"> Hey, I'm Kryspin, a 16 year old student from Poland, studying IT in the UK. I like to explore different sectors of IT, and I am currently learning <span styles="color: yellow;"> JavaScript </span> </p>
 
-I am a 16 year old student from Poland, studying IT in England.
-</br>
-</br>
-### 🤝 Connect with me:
+#### Let's Connect!
 
+I'm always glad to connect with anyone on **[Discord](https://discord.com/users/995766325416828939/)** **[Instagram](https://www.instagram.com/kay.1_x/)**
 
-<a href="https://www.instagram.com/kay.1_x/"><img align="left" src="https://user-images.githubusercontent.com/100538163/170320022-39761c22-bd91-4fca-92f3-e91a202cdcd2.svg" alt="Kay1 Instagram" width="21px"/></a>
+You could always <a href="mailto: contact@kryspinjemiolo.co.uk">Email</a> me too :)
 
-<a href="https://www.snapchat.com/add/kay1.me?share_id=MTY1N0RDMDYtMDc1Mi00NUZDLUFFMkYtNUFFQ0FEMDIxMTAz&locale=en_GB"><img align="left" src="https://user-images.githubusercontent.com/100538163/170320019-7a9cae42-1070-46dc-873c-d3ebc80055cd.svg" alt="Kay1 Instagram" width="21px"/></a>
+#### Facts About Me
 
-<a href="https://discord.com/users/995766325416828939"><img align="left" src="https://user-images.githubusercontent.com/100538163/170320015-57999f20-c144-40fa-af46-6b1011601424.svg" alt="Kay1 Instagram" width="21px"/></a>
+- Born in Poland, Debica 🇵🇱
+- Living in the UK for over 13+ years  🇬🇧 
+- 16 years of age
+- current interest: front end web development
 
-</br>
-</br>
-- 💬 If you have any question/feedback, please do not hesitate to reach out to me via <a href="mailto: contact@kryspinjemiolo.co.uk">email</a>
+---
 
-## ✍ I have previously used
-- HTML
-- CSS
-
-
-## 🌱 I'm currently learning
-
-- JavaScript
-
-
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kryspinjemiolo&include_all_commits=true&count_private=true&show_icons=true&theme=radical&title_color='#42ddf5'&text_color='#55de4e'&icon_color='#c45a73'" />
+</a>
