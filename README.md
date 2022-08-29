@@ -18,6 +18,7 @@ You could always <a href="mailto: contact@kryspinjemiolo.co.uk">Email</a> me too
 - current interest: front end web development
 - Favourite song: All Mine - Plaza
 </p1>
+
 ---
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
