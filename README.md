@@ -29,5 +29,5 @@ I am a 16 year old student from Poland, studying IT in England.
 
 ## 🌱 I'm currently learning
 
-- Golang
+- JavaScript
 
