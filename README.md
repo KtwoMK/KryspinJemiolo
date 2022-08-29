@@ -4,14 +4,14 @@
 
 #### Let's Connect!
 
-I'm always glad to connect with anyone on **[Discord](https://discord.com/users/995766325416828939/)** **[Instagram](https://www.instagram.com/kay.1_x/)**
+I'm always glad to connect with anyone on **[Discord](https://discord.com/users/995766325416828939/)** or **[Instagram](https://www.instagram.com/kay.1_x/)**
 
 You could always <a href="mailto: contact@kryspinjemiolo.co.uk">Email</a> me too :)
 
 #### Facts About Me
 
-- Born in Poland, Debica 🇵🇱
-- Living in the UK for over 13+ years  🇬🇧 
+- Born in Poland, Debica :flag_pl:
+- Living in the UK for over 13+ years :flag_gb: 
 - 16 years of age
 - current interest: front end web development
 
