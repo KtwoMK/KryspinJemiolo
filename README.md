@@ -5,7 +5,6 @@
 <h1 align="center"> Let's Connect!</h1>
 
 <p align="center"> I'm always glad to connect with anyone on <a href="https://www.instagram.com/kay.1_x/">Instagram</a>
-
 You could also always <a href="mailto: contact@kryspinjemiolo.co.uk">Email</a> </p>
 
 <h1 align="center"> Facts About Me </h1>
