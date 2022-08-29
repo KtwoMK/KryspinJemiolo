@@ -4,19 +4,18 @@
 
 <h1 align="center"> Let's Connect!</h1>
 
-<p align="center"> I'm always glad to connect with anyone on **[Discord](https://discord.com/users/995766325416828939/)** or **[Instagram](https://www.instagram.com/kay.1_x/)**
+<p align="center"> I'm always glad to connect with anyone on <a href="https://www.instagram.com/kay.1_x/">Instagram</a>
 
-You could always <a href="mailto: contact@kryspinjemiolo.co.uk">Email</a> me too :)
- </p>
+You could also always <a href="mailto: contact@kryspinjemiolo.co.uk">Email</a> </p>
 
 <h1 align="center"> Facts About Me </h1>
 
 <p align="center">
-- Born in Poland, Debica
-- Living in the UK for over 13+ years
-- 16 years of age
-- current interest: front end web development
-- Favourite song: All Mine - Plaza
+- Born in Poland, Debica <br>
+- Living in the UK for over 13+ years <br>
+- 16 years of age <br>
+- current interest: front end web development <br>
+- Favourite song: All Mine - Plaza <br>
 </p1>
 
 ---
