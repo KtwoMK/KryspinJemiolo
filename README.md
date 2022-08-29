@@ -1,6 +1,6 @@
-  ### Kryspin Jemiolo
+ <h1 align="center">Kryspin Jemiolo</h1>
 
-<p align="center"> Hey, I'm Kryspin, a 16 year old student from Poland, studying IT in the UK. I like to explore different sectors of IT, and I am currently learning <span styles="color: yellow;"> JavaScript </span> </p>
+<p align="center"> Hey, I'm Kryspin, a 16 year old student from Poland, studying IT in the UK. I like to explore different sectors of IT, and I am currently learning Javascript. I also enjoy listening to music, reading and working out from time to time.</p>
 
 #### Let's Connect!
 
@@ -10,10 +10,11 @@ You could always <a href="mailto: contact@kryspinjemiolo.co.uk">Email</a> me too
 
 #### Facts About Me
 
-- Born in Poland, Debica :flag_pl:
-- Living in the UK for over 13+ years :flag_gb: 
+- Born in Poland, Debica
+- Living in the UK for over 13+ years
 - 16 years of age
 - current interest: front end web development
+- Favourite song: All Mine - Plaza
 
 ---
 
