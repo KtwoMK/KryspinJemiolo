@@ -31,7 +31,9 @@ I am a 16 year old student from Poland, studying IT in England.
 
 - JavaScript
 
-## Stats
-<center> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kryspinjemiolo)](https://github.com/anuraghazra/github-readme-stats) </center>
-
+<p align="center">
+  ## Stats
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kryspinjemiolo)](https://github.com/anuraghazra/github-readme-stats) 
+</p>
 
