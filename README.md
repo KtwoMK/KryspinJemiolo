@@ -19,7 +19,7 @@ You could also always <a href="mailto: contact@kryspinjemiolo.co.uk">Email</a> <
 
 ---
 
-<h1 align="center"> Tech Stack <br> <br>
+<h1 align="center"> Tech Stack <br> <br></h1>
 <p align="center">My chosen tech stack is <strong>MERN</strong>. Because of this, I spend my spare time studying MongoDB, ExpressJS, ReactJS, and NodeJS. I also use git as my chosen VCS alongside github</p>
 
 ---
