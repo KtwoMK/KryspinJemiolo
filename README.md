@@ -1,6 +1,6 @@
  <h1 align="center">Kryspin Jemiolo</h1>
 
-<p align="center"> Hey, I'm Kryspin, a 16 year old student from Poland, studying IT in the UK. I like to explore different sectors of IT, and I am currently learning Javascript. I also enjoy listening to music, reading and working out from time to time.</p>
+<p align="center"> Hey, I'm Kryspin, a 16 year old student from Poland, studying Digital & Business in the UK. I like to explore different sectors of IT, and in my spare time, I study Full-Stack web development. I also enjoy listening to music, reading and watching netflix from time to time.</p>
 
 <h1 align="center"> Let's Connect!</h1>
 
@@ -13,7 +13,7 @@ You could also always <a href="mailto: contact@kryspinjemiolo.co.uk">Email</a> <
 - Born in Poland, Debica <br>
 - Living in the UK for over 13+ years <br>
 - 16 years of age <br>
-- current interest: front end web development <br>
+- current interest: Full-Stack web development <br>
 - Favourite song: All Mine - Plaza <br>
 </p1>
 
