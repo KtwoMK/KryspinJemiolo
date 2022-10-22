@@ -14,7 +14,7 @@ You could also always <a href="mailto: contact@kryspinjemiolo.co.uk">Email</a> <
 - Living in the UK for over 13+ years <br>
 - 16 years of age <br>
 - Studying digital & business
-- Favourite song: All Mine - Plaza <br>
+- Favourite song: Mockingbird - Eminem <br>
 </p1>
 
 ---
