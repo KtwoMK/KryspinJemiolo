@@ -1,6 +1,6 @@
  <h1 align="center">Kryspin Jemiolo</h1>
 
-<p align="center"> Hey, I'm Kryspin, a 16 year old student from Poland, studying Digital & Business in the UK. I like to explore different sectors of IT, and in my spare time, I Python & Golang. I also enjoy listening to music, reading and watching netflix from time to time.</p>
+<p align="center"> Hey, I'm Kryspin, a 16 year old student from Poland, studying Digital & Business in the UK. I like to explore different sectors of IT, and in my spare time, I study Python & Golang. I also enjoy listening to music, reading and watching netflix from time to time.</p>
 
 <h1 align="center"> Let's Connect!</h1>
 
