@@ -1,11 +1,11 @@
  <h1 align="center">Kryspin Jemiolo</h1>
 
-<p align="center"> Hey, I'm Kryspin, a 16 year old student from Poland, studying Digital & Business in the UK. I like to explore different sectors of IT, and in my spare time, I study Python & Golang. I also enjoy listening to music, reading and watching netflix from time to time.</p>
+<p align="center"> Hey, I'm Kryspin, a 16 year old student from Poland, studying Python</p>
 
 <h1 align="center"> Let's Connect!</h1>
 
 <p align="center"> I'm always glad to connect with anyone on <a href="https://www.instagram.com/kay.1_x/">Instagram</a>
-You could also always <a href="mailto: contact@kryspinjemiolo.co.uk">Email</a> </p>
+You could also always <a href="mailto: JemioloKryspin@icloud.com">Email</a> </p>
 
 <h1 align="center"> Facts About Me </h1>
 
@@ -13,14 +13,14 @@ You could also always <a href="mailto: contact@kryspinjemiolo.co.uk">Email</a> <
 - Born in Poland, Debica <br>
 - Living in the UK for over 13+ years <br>
 - 16 years of age <br>
-- Studying digital & business
-- Favourite song: Mockingbird - Eminem <br>
+- Studying Python
+- Favourite song: Kitchen Kings - DBE <br>
 </p1>
 
 ---
 
 <h1 align="center"> Currently learning/using <br> <br></h1>
-<p align="center">Golang <br> Python</p>
+<p align="center">Python</p>
 
 ---
 <h1 align="center"> Stats <br> <br>
