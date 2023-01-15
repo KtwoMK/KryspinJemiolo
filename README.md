@@ -13,7 +13,7 @@ You could also always <a href="mailto: JemioloKryspin@icloud.com">Email</a> </p>
 - Born in Poland, Debica <br>
 - Living in the UK for over 13+ years <br>
 - 16 years of age <br>
-- Studying PHP
+- Studying PHP & NodeJS <br>
 - Favourite song: Kitchen Kings - DBE <br>
 </p1>
 
