@@ -1,6 +1,6 @@
  <h1 align="center">Kryspin Jemiolo</h1>
 
-<p align="center"> Hey, I'm Kryspin, a 16 year old student from Poland, studying PHP</p>
+<p align="center"> Hey, I'm Kryspin, a 16 year old student from Poland, studying NodeJS & PHP</p>
 
 <h1 align="center"> Let's Connect!</h1>
 
@@ -20,7 +20,7 @@ You could also always <a href="mailto: JemioloKryspin@icloud.com">Email</a> </p>
 ---
 
 <h1 align="center"> Currently learning/using <br> <br></h1>
-<p align="center">PHP</p>
+<p align="center">PHP<br>NodeJS</p>
 
 ---
 <h1 align="center"> Stats <br> <br>
