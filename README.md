@@ -4,7 +4,7 @@
 
 <h1 align="center"> Let's Connect!</h1>
 
-<p align="center"> I'm always glad to connect with anyone on <a href="https://www.instagram.com/kay.1_x/">Instagram</a>
+<p align="center"> I'm always glad to connect with anyone on <a href="https://www.instagram.com/kstackz.mk/">Instagram</a>
 You could also always <a href="mailto: JemioloKryspin@icloud.com">Email</a> </p>
 
 <h1 align="center"> Facts About Me </h1>
