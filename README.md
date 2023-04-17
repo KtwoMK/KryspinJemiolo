@@ -1,6 +1,6 @@
  <h1 align="center">Kryspin Jemiolo</h1>
 
-<p align="center"> Hey, I'm Kryspin, a 16 year old student from Poland, studying NodeJS & PHP</p>
+<p align="center"> Hey, I'm Kryspin, a 17 year old student from Poland, studying NodeJS & PHP</p>
 
 <h1 align="center"> Let's Connect!</h1>
 
@@ -14,7 +14,7 @@ You could also always <a href="mailto: JemioloKryspin@icloud.com">Email</a> </p>
 - Living in the UK for over 13+ years <br>
 - 16 years of age <br>
 - Studying PHP & NodeJS <br>
-- Favourite song: Kitchen Kings - DBE <br>
+- Favourite song: One Of A Kind - Clavish <br>
 </p1>
 
 ---
