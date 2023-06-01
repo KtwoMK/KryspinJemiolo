@@ -12,7 +12,7 @@ You could also always <a href="mailto: JKryspin@icloud.com">Email</a> </p>
 <p align="center">
 - Born in Poland, Debica <br>
 - Living in the UK for over 13+ years <br>
-- 16 years of age <br>
+- 17 years of age <br>
 - Studying Python & Cyber Security <br>
 - Favourite song: Through The City - Lil Macks <br>
 </p1>
