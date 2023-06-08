@@ -1,4 +1,4 @@
- <h1 align="center">Kryspin Jemiolo</h1>
+ <h1 align="center">Kryspin</h1>
 
 <p align="center"> Hey, I'm Kryspin, a 17 year old student from Poland, studying Python</p>
 
